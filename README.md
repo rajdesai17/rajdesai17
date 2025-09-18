@@ -1,4 +1,5 @@
 Just a chill guy.
+view my resume here : https://drive.google.com/file/d/1TuLhLTQ4cFxDE-omw0mJxOtgxQCG8c13/view?usp=sharing
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
