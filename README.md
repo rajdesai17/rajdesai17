@@ -1,6 +1,6 @@
 Just a chill guy.
 ## my resume
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1TuLhLTQ4cFxDE-omw0mJxOtgxQCG8c13/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Ix2JtpAUzIWObfOzKpt9d0C7D8t9tkEh/view?usp=drive_link)
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
