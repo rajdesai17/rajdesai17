@@ -10,4 +10,4 @@ i’ve shipped real features, worked across frontend and backend, and contribute
 
 ## Resume
 
-[View my resume](https://drive.google.com/file/d/1KN3_rD3trJtXKhDyflxhMy6XnRiD1TZZ/view?usp=sharing)
+[View my resume](https://drive.google.com/file/d/1rRNpx7vTs90O8JTfnooIeGGX71NJzlGC/view?usp=sharing)
